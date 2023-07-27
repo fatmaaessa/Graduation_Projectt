@@ -1,0 +1,14 @@
+../Inc/Drivers/Src/USART_program.c:42:21:MCAL_UART_Init_	40	static
+../Inc/Drivers/Src/USART_program.c:140:21:MCAL_UART_Enable	16	static
+../Inc/Drivers/Src/USART_program.c:149:21:MCAL_UART_Disable	16	static
+../Inc/Drivers/Src/USART_program.c:164:21:MCAL_UART_Transmit	32	static
+../Inc/Drivers/Src/USART_program.c:297:17:MCAL_UART_Receive	32	static
+../Inc/Drivers/Src/USART_program.c:481:21:MCAL_UART_Transmit_INT	32	static
+../Inc/Drivers/Src/USART_program.c:590:24:UART_Transmit_Handler	24	static
+../Inc/Drivers/Src/USART_program.c:689:21:MCAL_UART_Receive_INT	24	static
+../Inc/Drivers/Src/USART_program.c:729:24:UART_Receive_Handler	24	static
+../Inc/Drivers/Src/USART_program.c:886:21:MCAL_UART_INTT_CALLBACK	24	static
+../Inc/Drivers/Src/USART_program.c:913:6:USART1_IRQHandler	8	static
+../Inc/Drivers/Src/USART_program.c:936:6:USART2_IRQHandler	8	static
+../Inc/Drivers/Src/USART_program.c:959:6:USART6_IRQHandler	8	static
+../Inc/Drivers/Src/USART_program.c:989:24:UART_Check_LockState	16	static

@@ -1,0 +1,4 @@
+../Inc/Drivers/Src/SPI_program.c:20:6:SPI_voidInit	16	static
+../Inc/Drivers/Src/SPI_program.c:123:4:SPI_voidTransReceiverData	16	static
+../Inc/Drivers/Src/SPI_program.c:132:6:SPI1_VidSetCallBack	16	static
+../Inc/Drivers/Src/SPI_program.c:138:6:SPI1_IRQHandler	8	static

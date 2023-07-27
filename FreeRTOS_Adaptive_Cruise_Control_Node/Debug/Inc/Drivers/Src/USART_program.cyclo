@@ -1,0 +1,14 @@
+USART_program.c:42:21:MCAL_UART_Init_	13
+USART_program.c:140:21:MCAL_UART_Enable	1
+USART_program.c:149:21:MCAL_UART_Disable	1
+USART_program.c:164:21:MCAL_UART_Transmit	12
+USART_program.c:297:17:MCAL_UART_Receive	18
+USART_program.c:481:21:MCAL_UART_Transmit_INT	8
+USART_program.c:590:24:UART_Transmit_Handler	5
+USART_program.c:689:21:MCAL_UART_Receive_INT	4
+USART_program.c:729:24:UART_Receive_Handler	18
+USART_program.c:886:21:MCAL_UART_INTT_CALLBACK	4
+USART_program.c:913:6:USART1_IRQHandler	6
+USART_program.c:936:6:USART2_IRQHandler	6
+USART_program.c:959:6:USART6_IRQHandler	6
+USART_program.c:989:24:UART_Check_LockState	9

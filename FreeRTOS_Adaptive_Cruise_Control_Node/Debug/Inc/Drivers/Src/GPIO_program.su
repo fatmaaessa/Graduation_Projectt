@@ -1,0 +1,5 @@
+../Inc/Drivers/Src/GPIO_program.c:18:6:GPIO_voidSetPinDirection	16	static
+../Inc/Drivers/Src/GPIO_program.c:221:6:GPIO_voidSetAlternativeFunction	16	static,ignoring_inline_asm
+../Inc/Drivers/Src/GPIO_program.c:270:6:GPIO_voidSetPinValue	16	static
+../Inc/Drivers/Src/GPIO_program.c:335:6:GPIO_u8GetPinValue	24	static
+../Inc/Drivers/Src/GPIO_program.c:371:7:GPIO_u32GetPortValue	24	static

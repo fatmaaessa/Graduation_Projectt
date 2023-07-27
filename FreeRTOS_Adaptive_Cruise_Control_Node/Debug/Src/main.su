@@ -1,0 +1,9 @@
+../Src/main.c:163:5:main	16	static
+../Src/main.c:221:6:add_callbackRX	24	static,ignoring_inline_asm
+../Src/main.c:239:6:vDumpTimerCallBack	16	static
+../Src/main.c:252:6:vReceiveFromUartTask	32	static
+../Src/main.c:290:6:vFilterTask	32	static
+../Src/main.c:336:6:vCalcObjectSpeedTask	168	static
+../Src/main.c:387:6:vCalcCarNewSpeedTask	24	static
+../Src/main.c:425:6:vBumpHandlingTask	56	static
+../Src/main.c:524:6:vTransmitToUartTask	32	static
